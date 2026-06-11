@@ -16,7 +16,7 @@
 - Python Practice Projects
 
 ## Connect With Me
-- GitHub: https://github.com/yourusername
+- GitHub:https://github.com/santhoshm1605-maker/santhoshkumar/edit/main/README.md
 
 ---
 ⭐ Thanks for visiting my profile!
