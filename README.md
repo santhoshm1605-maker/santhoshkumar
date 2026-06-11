@@ -1,38 +1,37 @@
-# Hi, I'm [santhosh kumar M] 👋
+# Hi, I'm Santhosh Kumar 👋
 
-## 🚀 About Me
+I'm currently learning software development with a focus on Python, data analytics, and AI-based applications. I enjoy building projects that help me understand how technology works in real-world scenarios.
 
-I am a passionate aspiring Software Developer with a strong interest in technology, programming, and problem-solving. I enjoy learning new skills, building projects, and continuously improving my knowledge in software development.
+At the moment, I'm improving my programming skills, exploring Git and GitHub, and working on projects related to AI and voice technologies.
 
-## 🌱 Currently Learning
+## What I'm Learning
 
 * Python
 * Git & GitHub
 * SQL
-* Data Analysis
-* Web Development
-* Artificial Intelligence & Machine Learning
+* Data Analytics
+* Artificial Intelligence
 
-## 💻 Current Projects
+## Current Projects
 
-* [Project Name 1] - Brief description
-* [Project Name 2] - Brief description
-* [Project Name 3] - Brief description
+* AI Voice Assistant using LiveKit
+* Python Practice Projects
+* Data Analytics Learning Projects
 
-## 🛠️ Skills
+## Goals
 
-* Programming: [Python]
-* Databases: [SQL, MySQL, etc.]
-* Tools: Git, GitHub
-* Other: Problem Solving, Data Analysis
+* Build a strong foundation in software development
+* Create real-world projects that solve practical problems
+* Contribute to open-source projects
+* Start a career as a Software Developer
 
-## 🎯 Career Goals
+## Technologies
 
-* Become a skilled Software Developer.
-* Build real-world applications that solve meaningful problems.
-* Contribute to open-source projects.
-* Explore Artificial Intelligence and emerging technologies.
-* Continuously learn and grow in the tech industry.
+* Python
+* Git
+* GitHub
+* SQL (Learning)
+* Data Analytics (Learning)
 
 ## 📫 Contact Information
 
@@ -40,11 +39,11 @@ I am a passionate aspiring Software Developer with a strong interest in technolo
 * LinkedIn: [https://www.linkedin.com/in/santhosh-kumar-7b1611319/?skipRedirect=true]
 * GitHub: [https://github.com/santhoshm1605-maker]
  
+## A Little About Me
 
-## ⚡ Fun Fact
+I prefer learning by building projects rather than just watching tutorials. This profile is where I document my progress, share what I'm working on, and continue improving as a developer.
 
-[I enjoy building small projects to learn new technologies.]
 
----
 
-⭐ Thanks for visiting my profile!
+
+
